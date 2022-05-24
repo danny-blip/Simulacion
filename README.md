@@ -1,1 +1,2 @@
-
+#RED NEURONAL CONVOLUCIONAL CLASIFICADORA DE IMÁGENES
+Proyecto Final de Noble Team para Simulación
