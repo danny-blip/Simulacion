@@ -1,5 +1,5 @@
 # RED NEURONAL CONVOLUCIONAL CLASIFICADORA DE IMÁGENES
-El proyecto consiste en la clasifiación de imágenes mediante el uso de redes neuronales, la calsificación dependera de las siguientes 10  categorías:
+El proyecto consiste en la clasifiación de imágenes mediante el uso de redes neuronales, la clasificación dependera de las siguientes 10  categorías:
 * Avión
 * Auto
 * Pájaro
